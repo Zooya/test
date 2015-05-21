@@ -1,2 +1,7 @@
 ddd
 iii
+
+function aaa()
+{
+	return aaaa;
+}
